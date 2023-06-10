@@ -1,7 +1,7 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Doomhub
+longtitle:        Doomhub
+author:           doombtter
 email:            doombtter@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://doombtter.github.io'
-baseurl:          '/'
+baseurl:          '/doombtter.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+disqushandler: disqus_v2p2A5ByMm
 
 exclude:
   - _drafts
