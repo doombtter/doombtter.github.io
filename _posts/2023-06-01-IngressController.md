@@ -1,8 +1,8 @@
 ---
-title: 메모화(Memoization)
+title: 인그레스 컨트롤러
 author: doombtter
 date: 2023-06-10
-category: js
+category: k8s
 layout: post
 ---
 

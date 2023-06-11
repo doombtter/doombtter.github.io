@@ -1,14 +1,16 @@
 ---
-title: 메모화(Memoization)
+title: 프로토타입 기반 상속(Prototype-based Inheritance)
 author: doombtter
 date: 2023-06-10
 category: js
 layout: post
 ---
 
-# Memoization
+# Prototype-based Inheritance
  
-메모화(Memoization)는 이전에 계산한 결과를 저장하여 계산에 중복을 피하는 프로그래밍 기법입니다. 이 기법은 실행 시간을 단축하고 성능을 향상 시킬 수 있습니다.
+
+프로토타입 기반 상속(Prototype-based Inheritance)은 JavaScript에서 객체 간의 상속을 구현하는 방법 중 하나입니다. 이는 객체 지향 프로그래밍의 상속 개념과는 조금 다른 방식으로 작동합니다.
+
 ## 사용 이유
 - 계산 비용이 큰 함수의 성능 향상
 - 실행 시간 단축
