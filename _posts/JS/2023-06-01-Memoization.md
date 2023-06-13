@@ -1,14 +1,14 @@
 ---
-title: 인그레스 컨트롤러
+title: 메모화(Memoization)
 author: doombtter
 date: 2023-06-10
-category: k8s
+category: js
 layout: post
 ---
 
 # Memoization
  
-메모화(Memoization)는 이전에 계산한 결과를 저장하여 계산에 중복을 피하는 프로그래밍 기법입니다. 이 기법은 실행 시간을 단축하고 성능을 향상 시킬 수 있습니다.
+- 메모화(Memoization)는 이전에 계산한 결과를 저장하여 계산에 중복을 피하는 프로그래밍 기법입니다. 이 기법은 실행 시간을 단축하고 성능을 향상 시킬 수 있습니다.
 ## 사용 이유
 - 계산 비용이 큰 함수의 성능 향상
 - 실행 시간 단축

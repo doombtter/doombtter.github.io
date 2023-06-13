@@ -4,7 +4,7 @@ longtitle:        Doomhub
 author:           doombtter
 email:            doombtter@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  둠비터의 기술로그
 
 version:          1.0
 gitbook_version:  3.2.3
