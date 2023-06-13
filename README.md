@@ -23,4 +23,4 @@ permalink: /
 [4]: https://doombtter.github.io/js/2023-06-10-Prototype-based-Inheritance.html
 [5]: https://doombtter.github.io/k8s/2023-06-10-IngressController.html
 [6]: https://doombtter.github.io/aws/2023-06-10-MFA.html
-[7]: https://doombtter.github.io/aws/2023-06-10-HealthCheck.html
+[7]: https://doombtter.github.io/k8s/2023-06-10-HealthCheck.html
