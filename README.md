@@ -11,6 +11,7 @@ permalink: /
 - [프로토타입 기반 상속(Prototype-based Inheritance)[작성중]][4]
 
 ## K8S 모아보기
+- [쿠버네티스 헬스 체크(Kubernetes Health Check)][7]
 - [인그레스 컨트롤러(Ingress Controller)][5]
 
 ## AWS 모아보기
@@ -22,3 +23,4 @@ permalink: /
 [4]: https://doombtter.github.io/js/2023-06-10-Prototype-based-Inheritance.html
 [5]: https://doombtter.github.io/k8s/2023-06-10-IngressController.html
 [6]: https://doombtter.github.io/aws/2023-06-10-MFA.html
+[7]: https://doombtter.github.io/aws/2023-06-10-HealthCheck.html
