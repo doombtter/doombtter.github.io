@@ -13,6 +13,7 @@ permalink: /
 ## K8S 모아보기
 - [쿠버네티스 헬스 체크(Kubernetes Health Check)][7]
 - [인그레스 컨트롤러(Ingress Controller)][5]
+- [쿠버네티스 연산자(Operators)][8]
 
 ## AWS 모아보기
 - [다중 인증(AWS Multi-Factor Authentication)][6]
@@ -24,3 +25,4 @@ permalink: /
 [5]: https://doombtter.github.io/k8s/2023-06-10-IngressController.html
 [6]: https://doombtter.github.io/aws/2023-06-10-MFA.html
 [7]: https://doombtter.github.io/k8s/2023-06-10-HealthCheck.html
+[8]: https://doombtter.github.io/k8s/2023-06-10-Operators.html
