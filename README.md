@@ -18,6 +18,9 @@ permalink: /
 ## AWS 모아보기
 - [다중 인증(AWS Multi-Factor Authentication)][6]
 
+## CI/CD 모아보기
+- [Jest와 Jenkins 연동][]
+
 [1]: https://doombtter.github.io/js/2023-06-10-Currying.html
 [2]: https://doombtter.github.io/js/2023-06-10-Memoization.html
 [3]: https://doombtter.github.io/js/2023-06-10-Generators.html
@@ -26,3 +29,4 @@ permalink: /
 [6]: https://doombtter.github.io/aws/2023-06-10-MFA.html
 [7]: https://doombtter.github.io/k8s/2023-06-10-HealthCheck.html
 [8]: https://doombtter.github.io/k8s/2023-06-10-Operators.html
+[9]: https://doombtter.github.io/cicd/2023-06-10-JestWithJenkins.html
