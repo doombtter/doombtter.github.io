@@ -20,6 +20,7 @@ permalink: /
 
 ## CI/CD 모아보기
 - [Jest와 Jenkins 연동][9]
+- [테라폼 조건문(Terraform Conditionals)][10]
 
 [1]: https://doombtter.github.io/js/2023-06-10-Currying.html
 [2]: https://doombtter.github.io/js/2023-06-10-Memoization.html
@@ -30,3 +31,4 @@ permalink: /
 [7]: https://doombtter.github.io/k8s/2023-06-10-HealthCheck.html
 [8]: https://doombtter.github.io/k8s/2023-06-10-Operators.html
 [9]: https://doombtter.github.io/cicd/2023-06-10-JestWithJenkins.html
+[10]: https://doombtter.github.io/cicd/2023-06-10-Terraformifelse.html
