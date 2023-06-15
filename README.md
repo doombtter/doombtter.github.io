@@ -19,7 +19,7 @@ permalink: /
 - [다중 인증(AWS Multi-Factor Authentication)][6]
 
 ## CI/CD 모아보기
-- [Jest와 Jenkins 연동][]
+- [Jest와 Jenkins 연동][9]
 
 [1]: https://doombtter.github.io/js/2023-06-10-Currying.html
 [2]: https://doombtter.github.io/js/2023-06-10-Memoization.html
