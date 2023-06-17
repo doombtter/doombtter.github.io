@@ -21,6 +21,7 @@ permalink: /
 ## CI/CD 모아보기
 - [Jest와 Jenkins 연동][9]
 - [테라폼 HCL(Terraform HCL)][11]
+- [테라폼 명령어(Terraform Command)][12]
 - [테라폼 조건문(Terraform Conditionals)][10]
 
 [1]: https://doombtter.github.io/js/2023-06-10-Currying.html
@@ -34,3 +35,4 @@ permalink: /
 [9]: https://doombtter.github.io/cicd/2023-06-10-JestWithJenkins.html
 [10]: https://doombtter.github.io/cicd/2023-06-10-Terraformifelse.html
 [11]: https://doombtter.github.io/cicd/2023-06-10-HCL.html
+[12]: https://doombtter.github.io/cicd/2023-06-10-TerraformCommand.html
