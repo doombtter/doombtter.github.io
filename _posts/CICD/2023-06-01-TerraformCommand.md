@@ -92,6 +92,14 @@ terraform import : 이미 존재하는 Infrastructure을 테라폼 상태 파일
 ```
 
 - 이는 이미 생성된 instance등을 테라폼으로 가져와서 관리하는 것에 유용합니다.
+
+``` sh
+terraform taint : 리소스를 마킹하여 '오염된' 상태로 표시합니다.
+terraform untaint : '오염된' 상태를 취소합니다.
+```
+
+- 이는 다음 Terraform 실행 시에 '오염된' 리소스를 강제로 다시 생성합니다.
+
 - 다른 추가적인 명령어들은 공식 문서에서 확인 할 수 있습니다.
 
 

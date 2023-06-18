@@ -19,6 +19,7 @@ permalink: /
 - [다중 인증(AWS Multi-Factor Authentication)][6]
 
 ## CI/CD 모아보기
+- [GitOps 방법론(GitOps Methodology)[작성중]][13]
 - [Jest와 Jenkins 연동][9]
 - [테라폼 HCL(Terraform HCL)][11]
 - [테라폼 명령어(Terraform Command)][12]
@@ -36,3 +37,4 @@ permalink: /
 [10]: https://doombtter.github.io/cicd/2023-06-10-Terraformifelse.html
 [11]: https://doombtter.github.io/cicd/2023-06-10-HCL.html
 [12]: https://doombtter.github.io/cicd/2023-06-10-TerraformCommand.html
+[13]: https://doombtter.github.io/cicd/2023-06-10-GitOps.html
