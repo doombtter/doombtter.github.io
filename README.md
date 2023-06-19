@@ -4,7 +4,14 @@ title: Doomhub
 permalink: /
 ---
 
+## 작성 예정
+- Site Reliability Engineering (SRE) 방법론
+- DevSecOps 방법론
+- Agile 방법론
+- Kubernetes Flux
+
 ## JS 모아보기
+- [삼항 조건 연산자(Conditional (ternary) operator)를 적재적소에 사용하기][14]
 - [커링(Currying)][1]
 - [메모화(Memoization)][2]
 - [제너레이터(Generators)][3]
@@ -37,4 +44,5 @@ permalink: /
 [10]: https://doombtter.github.io/cicd/2023-06-10-Terraformifelse.html
 [11]: https://doombtter.github.io/cicd/2023-06-10-HCL.html
 [12]: https://doombtter.github.io/cicd/2023-06-10-TerraformCommand.html
-[13]: https://doombtter.github.io/cicd/2023-06-10-GitOps.html
+[13]: https://doombtter.github.io/cicd/2023-06-10-GitOps.html 
+[14]: https://doombtter.github.io/js/2023-06-10-ternaryOperator.html
