@@ -5,10 +5,10 @@ permalink: /
 ---
 
 ## 작성 예정
-- Site Reliability Engineering (SRE) 방법론
 - DevSecOps 방법론
 - Agile 방법론
 - Kubernetes Flux
+- 배포 전략
 
 ## JS 모아보기
 - [삼항 조건 연산자(Conditional (ternary) operator)를 적재적소에 사용하기][14]
@@ -25,8 +25,9 @@ permalink: /
 ## AWS 모아보기
 - [다중 인증(AWS Multi-Factor Authentication)][6]
 
-## CI/CD 모아보기
+## DevOps 모아보기
 - [GitOps 방법론(GitOps Methodology)][13]
+- [Site Reliability Engineering (SRE) 방법론][15]
 - [Jest와 Jenkins 연동][9]
 - [테라폼 HCL(Terraform HCL)][11]
 - [테라폼 명령어(Terraform Command)][12]
@@ -46,3 +47,4 @@ permalink: /
 [12]: https://doombtter.github.io/cicd/2023-06-10-TerraformCommand.html
 [13]: https://doombtter.github.io/cicd/2023-06-10-GitOps.html 
 [14]: https://doombtter.github.io/js/2023-06-10-ternaryOperator.html
+[15]: https://doombtter.github.io/js/2023-06-10-SRE.html
