@@ -58,3 +58,8 @@ output "result" {
   value = !var.is_enabled #값을 반전시킴
 }
 ```
+
+## 참고 문서
+- [Conditional Expressions - HashiCorp][1]
+
+[1]: https://developer.hashicorp.com/terraform/language/expressions/conditionals

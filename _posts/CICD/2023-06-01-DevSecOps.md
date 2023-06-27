@@ -38,3 +38,8 @@ layout: post
 
 ## 기존에 대비하여 추가적으로 얻을 수 있는 이점
 1. 개발 이후 발생하는 보안 이슈에 늦고 대응하기 어려운 보안 구축에 비해 명확한 이점을 가집니다.
+
+## 참고 문서
+- [DevSecOps란 무엇인가요? - AWS][1]
+
+[1]: https://aws.amazon.com/ko/what-is/devsecops/

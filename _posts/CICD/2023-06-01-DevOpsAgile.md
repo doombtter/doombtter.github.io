@@ -94,7 +94,7 @@ Dave Thomas
 
 - 지속적인 개선 : 작업 흐름과 프로세스의 병목 현상을 식별하고 개선하는데 중점을 둡니다. 개선을 위한 데이터 수집과 분석을 통해 효율성을 높이고 작업 품질을 향상시킵니다.
 
-## 작성 출처
+## 참고 문서
 - [Agile 방법론 - Microsoft][1]
 
 [1]: https://learn.microsoft.com/ko-kr/devops/plan/what-is-agile

@@ -134,3 +134,8 @@ terraform state rm [resource] : 특정 리소스를 상태 파일에서 제거�
 terraform state pull : 현재 구성된 인프라 리소스의 상태 정보를 로컬로 가져옵니다, '.tfstate'  확장자를 가지며 편집이 가능합니다.
 terraform state push : 로컬에서 변경된 상태 파일을 원격 상태 스토리지에 업데이트 합니다.
 ```
+
+## 참고 문서
+- [Basic CLI Features - HashiCorp][1]
+
+[1]: https://developer.hashicorp.com/terraform/cli/commands
