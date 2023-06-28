@@ -32,6 +32,7 @@ permalink: /
 - [테라폼 HCL(Terraform HCL)][11]
 - [테라폼 명령어(Terraform Command)][12]
 - [테라폼 조건문(Terraform Conditionals)][10]
+- [Git Webhook을 이용한 웹사이트 AWS Serverless 자동화 배포][18]
 
 [1]: https://doombtter.github.io/js/2023-06-10-Currying.html
 [2]: https://doombtter.github.io/js/2023-06-10-Memoization.html
@@ -47,6 +48,7 @@ permalink: /
 [12]: https://doombtter.github.io/cicd/2023-06-10-TerraformCommand.html
 [13]: https://doombtter.github.io/cicd/2023-06-10-GitOps.html 
 [14]: https://doombtter.github.io/js/2023-06-10-ternaryOperator.html
-[15]: https://doombtter.github.io/js/2023-06-10-SRE.html
-[16]: https://doombtter.github.io/js/2023-06-10-DevSecOps.html
-[17]: https://doombtter.github.io/js/2023-06-10-DevOpsAgile.html
+[15]: https://doombtter.github.io/cicd/2023-06-10-SRE.html
+[16]: https://doombtter.github.io/cicd/2023-06-10-DevSecOps.html
+[17]: https://doombtter.github.io/cicd/2023-06-10-DevOpsAgile.html
+[18]: https://doombtter.github.io/cicd/2023-06-10-webhookserverless.html
